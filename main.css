@@ -85,6 +85,9 @@ body {
     margin-bottom: 3em;
 }
 
+.projects {
+    margin-top: 2em;
+}
 .contact {
         padding: 4em 0;
         margin-top: 1.5em;
@@ -113,7 +116,7 @@ hr {
 
 .parallax {
     padding: 4em 2em;
-    height: 30vh;
+    
 }
 
 .parallax h3 {
